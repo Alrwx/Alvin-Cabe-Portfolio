@@ -23,7 +23,7 @@ header {
 
 .theme-toggle {
     cursor: pointer;
-    text-decoration: underline, bold;
+    text-decoration: underline;
     color: #fff;
     font-size: 1.2rem;
 }
